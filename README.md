@@ -77,4 +77,3 @@ Class | Method | HTTP request | Description
 
 apiteam@swagger.io
 
-
